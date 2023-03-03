@@ -1,0 +1,60 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+}
+.head{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+    border-radius: 20px;
+   margin-left: 550px;
+}
+.mounth{
+    width: 100px;
+    height: 20px;
+    background-color: crimson;
+    margin-left: 23px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+.eis{
+    background-color: whitesmoke;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 46px;
+   padding: 20px 0;
+}
+.eise{
+    background-color: yellow;
+    height: 70px;
+    width: 5px;
+    margin-left: 23px;
+}
+.ahee{
+    height: 70px;
+    width: 15px;
+    background-color: grey;
+    margin-left: 65px;
+    border-radius: 20px;
+}
+.body{
+    background-color: grey;
+    border-radius: 20px;
+    width: 150px;
+    height: 200px;
+}
+.hand1{
+background-color: grey;
+height: 160px;
+width: 10px;
+transform: rotate(90deg);
+}
+p{
+    background-color: aliceblue;
+}
